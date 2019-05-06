@@ -4,14 +4,11 @@
 		line-height: 1.165;
 		margin: 1.8rem 0;
 		font-weight: 300;
-		
 
 		@mixin atSmall {
 			font-size: 1.125rem;
 		}
 	}
-
-	
 
 	p a {
 		font-weight: 700;
